@@ -1,6 +1,8 @@
 public class vacuna {
-  private String marca;
-  public vacuna(String marca){
-    this.marca=marca;
-  }
+    private String marca;
+
+    public vacuna(String marca) {
+        this.marca = marca;
+    }
+    //comment1
 }
